@@ -17,4 +17,4 @@ spring:
     database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
 user:
   login:
-    name: patil
+    name: sagar

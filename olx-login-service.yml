@@ -15,3 +15,6 @@ spring:
       use-new-id-generator-mappings: false
     show-sql: true
     database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
+user:
+  login:
+    name: sagar
